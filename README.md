@@ -12,7 +12,6 @@
 
 ## 📸 Demo / معاينة
 ![Aegis Dashboard](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here+1)
-*(Please replace this image with a screenshot of your terminal or AI output)*
 
 ---
 
